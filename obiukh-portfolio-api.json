@@ -1,0 +1,124 @@
+{
+    "tech": {
+        "js": [
+            {
+                "name": "Carousel",
+                "src": "https://codepen.io/oleg-obiukh/pen/xBVbbj",
+                "technology": "JS"
+            },
+            {
+                "name": "Sliding tree",
+                "src": "https://codepen.io/oleg-obiukh/pen/MxyYao",
+                "technology": "JS"
+            },
+            {
+                "name": "Sliding tree",
+                "src": "https://codepen.io/oleg-obiukh/pen/MxyYao",
+                "technology": "JS"
+            },
+            {
+                "name": "Move the Ball",
+                "src": "https://codepen.io/oleg-obiukh/pen/vbNRJJ",
+                "technology": "JS"
+            },
+            {
+                "name": "Clock",
+                "src": "https://codepen.io/oleg-obiukh/pen/KJpLpy",
+                "technology": "JS"
+            },
+            {
+                "name": "Clock (classes)",
+                "src": "https://codepen.io/oleg-obiukh/pen/ErPvPN",
+                "technology": "JS"
+            },
+            {
+                "name": "Vouter (Prototypes)",
+                "src": "https://codepen.io/oleg-obiukh/pen/QYbvqr",
+                "technology": "JS"
+            },
+            {
+                "name": "Tabs (classes)",
+                "src": "https://codepen.io/oleg-obiukh/pen/OdpXLa",
+                "technology": "JS"
+            },
+            {
+                "name": "Gallery",
+                "src": "https://codepen.io/oleg-obiukh/pen/xByKPw",
+                "technology": "JS"
+            }                 
+        ],
+        "react": [
+            {
+                "name": "Star Wars",
+                "API": "https://swapi.co/",
+                "src": "https://github.com/olegobiukh/react-sw/",
+                "view": "https://olegobiukh.github.io/react-sw/",
+                "technology": "React",
+                "best": true
+            },
+            {
+                "name": "To do app",
+                "src": "https://github.com/olegobiukh/react-data-table/",
+                "view": "https://olegobiukh.github.io/react-data-table/",
+                "technology": "React",
+                "best": true
+            },
+            {
+                "name": "Tic Tac Toe",
+                "src": "https://github.com/olegobiukh/react-tic-tac-toe/",
+                "view": "https://olegobiukh.github.io/react-tic-tac-toe/",
+                "technology": "React",
+                "best": true
+            },
+            {
+                "name": "Data Table (Api)",
+                "src": "https://github.com/olegobiukh/react-data-table/",
+                "view": "https://olegobiukh.github.io/react-data-table/",
+                "technology": "React",
+                "best": true
+            }
+        ],
+        "redux": [
+            {
+                "name": "Tic Tac Toe",
+                "src": "https://github.com/olegobiukh/redux-tic-tac-toe",
+                "view": "https://olegobiukh.github.io/react-data-table/",
+                "technology": "Redux",
+                "best": true
+            }
+        ],
+        "html/css": [
+            {
+                "name": "FE/1",
+                "view": "https://olegobiukh.github.io/FE/1/",
+                "technology": ["HTML/CSS", "responsive"]
+            },
+            {
+                "name": "FE/2",
+                "view": "https://olegobiukh.github.io/FE/2/",
+                "technology": [
+                    "HTML/CSS",
+                    "responsive"
+                ]
+            },
+            {
+                "name": "FE/3",
+                "view": "https://olegobiukh.github.io/FE/3/",
+                "technology": [
+                    "HTML/CSS",
+                    "responsive"
+                ]
+            },
+            {
+                "name": "Responsive menu",
+                "src": "https://github.com/olegobiukh/CSS-responsive-menu",
+                "view": "https://olegobiukh.github.io/CSS-responsive-menu/",
+                "technology": [
+                    "HTML/CSS",
+                    "responsive"
+                ]
+            }
+        ]
+        
+    }
+}

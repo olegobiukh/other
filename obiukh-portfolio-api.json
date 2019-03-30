@@ -62,7 +62,7 @@
             "best": true
         },
         {
-            "name": "Tic Tac Toe",
+            "name": "Tic Tac Toe (react)",
             "src": "https://github.com/olegobiukh/react-tic-tac-toe/",
             "view": "https://olegobiukh.github.io/react-tic-tac-toe/",
             "tech": "react",
@@ -77,7 +77,7 @@
         },
     
         {
-            "name": "Tic Tac Toe",
+            "name": "Tic Tac Toe (redux)",
             "src": "https://github.com/olegobiukh/redux-tic-tac-toe",
             "view": "https://olegobiukh.github.io/react-data-table/",
             "tech": "redux",

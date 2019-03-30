@@ -56,8 +56,8 @@
         },
         {
             "name": "To do app",
-            "src": "https://github.com/olegobiukh/react-data-table/",
-            "view": "https://olegobiukh.github.io/react-data-table/",
+            "src": "https://github.com/olegobiukh/react-todo-list/",
+            "view": "https://olegobiukh.github.io/react-todo-list/",
             "tech": "react",
             "best": true
         },
@@ -75,11 +75,18 @@
             "tech": "react",
             "best": true
         },
+        {
+            "name": "Dropdown",
+            "src": "https://github.com/olegobiukh/react-dropdown",
+            "view": "https://olegobiukh.github.io/react-dropdown/",
+            "tech": "react",
+            "additional info": "context"        
+        }
     
         {
             "name": "Tic Tac Toe (redux)",
             "src": "https://github.com/olegobiukh/redux-tic-tac-toe",
-            "view": "https://olegobiukh.github.io/react-data-table/",
+            "view": "https://olegobiukh.github.io/redux-tic-tac-toe/",
             "tech": "redux",
             "best": true
         },

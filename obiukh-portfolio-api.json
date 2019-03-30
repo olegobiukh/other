@@ -52,28 +52,24 @@
             "src": "https://github.com/olegobiukh/react-sw/",
             "view": "https://olegobiukh.github.io/react-sw/",
             "tech": "react",
-            "best": true
         },
         {
             "name": "To do app",
             "src": "https://github.com/olegobiukh/react-todo-list/",
             "view": "https://olegobiukh.github.io/react-todo-list/",
             "tech": "react",
-            "best": true
         },
         {
             "name": "Tic Tac Toe (react)",
             "src": "https://github.com/olegobiukh/react-tic-tac-toe/",
             "view": "https://olegobiukh.github.io/react-tic-tac-toe/",
             "tech": "react",
-            "best": true
         },
         {
             "name": "Data Table (Api)",
             "src": "https://github.com/olegobiukh/react-data-table/",
             "view": "https://olegobiukh.github.io/react-data-table/",
             "tech": "react",
-            "best": true
         },
         {
             "name": "Dropdown",
@@ -87,7 +83,6 @@
             "src": "https://github.com/olegobiukh/redux-tic-tac-toe",
             "view": "https://olegobiukh.github.io/redux-tic-tac-toe/",
             "tech": "redux",
-            "best": true
         },
         {
             "name": "FE/1",

@@ -1,5 +1,5 @@
 {
-"technologies": ["all", "js","react", "redux", "html/css", "best"],
+"technologies": ["all", "js","react", "redux", "html/css"],
 "projects": [
         {
             "name": "Carousel",

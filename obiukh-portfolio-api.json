@@ -81,8 +81,7 @@
             "view": "https://olegobiukh.github.io/react-dropdown/",
             "tech": "react",
             "additional info": "context"        
-        }
-    
+        },    
         {
             "name": "Tic Tac Toe (redux)",
             "src": "https://github.com/olegobiukh/redux-tic-tac-toe",

@@ -3,47 +3,32 @@
 "projects": [
         {
             "name": "Carousel",
-            "src": "https://codepen.io/oleg-obiukh/pen/xBVbbj",
+            "src": "https://jsfiddle.net/olegobiukh/k2qjoxm1/7/",
             "tech": "js"
         },
         {
             "name": "Sliding tree",
-            "src": "https://codepen.io/oleg-obiukh/pen/MxyYao",
-            "tech": "js"
-        },
-        {
-            "name": "Sliding tree",
-            "src": "https://codepen.io/oleg-obiukh/pen/MxyYao",
+            "src": "https://jsfiddle.net/olegobiukh/s52t8w9n/3/",
             "tech": "js"
         },
         {
             "name": "Move the Ball",
-            "src": "https://codepen.io/oleg-obiukh/pen/vbNRJJ",
-            "tech": "js"
-        },
-        {
-            "name": "Clock",
-            "src": "https://codepen.io/oleg-obiukh/pen/KJpLpy",
-            "tech": "js"
-        },
-        {
-            "name": "Clock (classes)",
-            "src": "https://codepen.io/oleg-obiukh/pen/ErPvPN",
+            "src": "https://jsfiddle.net/olegobiukh/edofkj8n/3/",
             "tech": "js"
         },
         {
             "name": "Vouter (Prototypes)",
-            "src": "https://codepen.io/oleg-obiukh/pen/QYbvqr",
+            "src": "https://jsfiddle.net/olegobiukh/k62ac4yj/9/",
             "tech": "js"
         },
         {
             "name": "Tabs (classes)",
-            "src": "https://codepen.io/oleg-obiukh/pen/OdpXLa",
+            "src": "https://jsfiddle.net/olegobiukh/yenh2vsk/1/",
             "tech": "js"
         },
         {
             "name": "Gallery",
-            "src": "https://codepen.io/oleg-obiukh/pen/xByKPw",
+            "src": "https://jsfiddle.net/olegobiukh/6nhw42mz/1/",
             "tech": "js"
         },
         {

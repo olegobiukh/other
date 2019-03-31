@@ -17,14 +17,16 @@
             "tech": "js"
         },
         {
-            "name": "Vouter (prototypes)",
+            "name": "Vouter",
             "src": "https://jsfiddle.net/olegobiukh/dajpLz64/1/",
-            "tech": "js"
+            "tech": "js",
+            "additional": "prototypes" 
         },
         {
-            "name": "Tabs (classes)",
+            "name": "Tabs",
             "src": "https://jsfiddle.net/olegobiukh/yenh2vsk/1/",
-            "tech": "js"
+            "tech": "js",
+            "additional": "classes" 
         },
         {
             "name": "Gallery",
@@ -33,10 +35,10 @@
         },
         {
             "name": "Star Wars",
-            "API": "https://swapi.co/",
             "src": "https://github.com/olegobiukh/react-sw/",
             "view": "https://olegobiukh.github.io/react-sw/",
-            "tech": "react"
+            "tech": "react",
+            "additional info": "API (https://swapi.co/)"
         },
         {
             "name": "To do app",
@@ -45,16 +47,17 @@
             "tech": "react"
         },
         {
-            "name": "Tic Tac Toe (react)",
+            "name": "Tic Tac Toe 1",
             "src": "https://github.com/olegobiukh/react-tic-tac-toe/",
             "view": "https://olegobiukh.github.io/react-tic-tac-toe/",
             "tech": "react"
         },
         {
-            "name": "Data Table (Api)",
+            "name": "Data Table with",
             "src": "https://github.com/olegobiukh/react-data-table/",
             "view": "https://olegobiukh.github.io/react-data-table/",
-            "tech": "react"
+            "tech": "react",
+            "additional info": "API"
         },
         {
             "name": "Dropdown",
@@ -64,25 +67,26 @@
             "additional info": "context"        
         },    
         {
-            "name": "Tic Tac Toe (redux)",
+            "name": "Tic Tac Toe 2",
             "src": "https://github.com/olegobiukh/redux-tic-tac-toe",
             "view": "https://olegobiukh.github.io/redux-tic-tac-toe/",
-            "tech": "redux"
+            "tech": "redux",
+            "additional info": "redux" 
         },
         {
-            "name": "FE/1",
+            "name": "FE-1",
             "view": "https://olegobiukh.github.io/FE/1/",
             "tech": "html/css",
             "additional info": "responsive"
         },
         {
-            "name": "FE/2",
+            "name": "FE-2",
             "view": "https://olegobiukh.github.io/FE/2/",
             "tech": "html/css",
             "additional info": "responsive"
         },
         {
-            "name": "FE/3",
+            "name": "FE-3",
             "view": "https://olegobiukh.github.io/FE/3/",
             "tech": "html/css",
             "additional info": "responsive"

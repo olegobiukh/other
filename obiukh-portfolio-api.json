@@ -90,14 +90,6 @@
             "view": "https://olegobiukh.github.io/FE/3/",
             "tech": "html/css",
             "additional info": "responsive"
-        },
-        {
-            "name": "Responsive menu",
-            "src": "https://github.com/olegobiukh/CSS-responsive-menu",
-            "view": "https://olegobiukh.github.io/CSS-responsive-menu/",
-            "tech": "html/css",
-            "additional info": "responsive"
-        }
-    
+        },    
     ]
 }

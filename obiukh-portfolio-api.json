@@ -3,34 +3,34 @@
 "projects": [
         {
             "name": "Carousel",
-            "src": "https://jsfiddle.net/olegobiukh/k2qjoxm1/7/",
+            "view": "https://jsfiddle.net/olegobiukh/k2qjoxm1/7/",
             "tech": "js"
         },
         {
             "name": "Sliding tree",
-            "src": "https://jsfiddle.net/olegobiukh/s52t8w9n/3/",
+            "view": "https://jsfiddle.net/olegobiukh/s52t8w9n/3/",
             "tech": "js"
         },
         {
             "name": "Move the ball",
-            "src": "https://jsfiddle.net/olegobiukh/edofkj8n/",
+            "view": "https://jsfiddle.net/olegobiukh/edofkj8n/",
             "tech": "js"
         },
         {
             "name": "Vouter",
-            "src": "https://jsfiddle.net/olegobiukh/dajpLz64/1/",
+            "view": "https://jsfiddle.net/olegobiukh/dajpLz64/1/",
             "tech": "js",
             "additional": "prototypes" 
         },
         {
             "name": "Tabs",
-            "src": "https://jsfiddle.net/olegobiukh/yenh2vsk/1/",
+            "view": "https://jsfiddle.net/olegobiukh/yenh2vsk/1/",
             "tech": "js",
             "additional": "classes" 
         },
         {
             "name": "Gallery",
-            "src": "https://jsfiddle.net/olegobiukh/6nhw42mz/1/",
+            "view": "https://jsfiddle.net/olegobiukh/6nhw42mz/1/",
             "tech": "js"
         },
         {

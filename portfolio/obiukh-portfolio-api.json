@@ -5,87 +5,87 @@
             "view": "https://olegobiukh.github.io/FE/1/",
             "tech": "fe",
             "additional info": "responsive",
-            "img": "bg__fe1"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "FE2",
             "view": "https://olegobiukh.github.io/FE/2/",
             "tech": "fe",
             "additional info": "responsive",
-            "img": "bg__fe2"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Star Wars",
             "view": "https://olegobiukh.github.io/react-sw/",
             "tech": "react",
             "additional info": "API (https://swapi.co/)",
-            "img": "bg__star-wars"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Barley-Break",
             "view": "https://olegobiukh.github.io/redux-barley-brick/",
             "tech": "redux",
             "additional info": "redux, SCSS, GRID",
-            "img": "bg__barley-break"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Weather App",
             "view": "https://olegobiukh.github.io/react-openweather/",
             "tech": "react",
             "additional info": "API",
-            "img": "bg__weather-app"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Data Table",
             "view": "https://olegobiukh.github.io/react-data-table/",
             "tech": "react",
             "additional info": "API",
-            "img": "bg__datatable"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Tic Tac Toe 2",
             "view": "https://olegobiukh.github.io/redux-tic-tac-toe/",
             "tech": "redux",
             "additional info": "redux",
-            "img": "bg__tic-tac-toe"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Carousel",
             "view": "https://jsfiddle.net/olegobiukh/k2qjoxm1/7/",
             "tech": "js",
-            "img": "bg__carousel"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Tabs",
             "view": "https://jsfiddle.net/olegobiukh/yenh2vsk/30/",
             "tech": "js",
             "additional": "classes",
-            "img": "bg__tabs"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Gallery",
             "view": "https://jsfiddle.net/olegobiukh/6nhw42mz/2/",
             "tech": "js",
-            "img": "bg__gallery"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "To do app",
             "view": "https://olegobiukh.github.io/react-todo-list/",
             "tech": "react",
-            "img": "bg__todo"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Tic Tac Toe 1",
             "view": "https://olegobiukh.github.io/react-tic-tac-toe/",
             "tech": "react",
-            "img": "bg__tic-tac-toe"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
             "name": "Dropdown",
             "view": "https://olegobiukh.github.io/react-dropdown/",
             "tech": "react",
             "additional info": "context",
-            "img": "bg__dropdown"
+            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         }
     ]
 }

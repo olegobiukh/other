@@ -1,5 +1,5 @@
 {   
-    "skills" : ["html","css","sass", "less", "bem","bootstrap","gulp","js","jquery","react","redux","angular","git","npm","photoshop","figma"],
+    "skills" : ["html","css","sass", "less", "bem","bootstrap","gulp","js","jquery","react","redux","angular","vue","node","git","npm","photoshop","figma"],
     "projects": [
         {
             "name": "FE6",

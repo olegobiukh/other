@@ -75,13 +75,6 @@
             "view": "https://olegobiukh.github.io/react-tic-tac-toe/",
             "tech": "react",
             "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/tic-tac-toe.png"
-        },
-        {
-            "name": "Dropdown",
-            "view": "https://olegobiukh.github.io/react-dropdown/",
-            "tech": "react",
-            "additional info": "context",
-            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/dropdown.png"
         }
     ]
 }

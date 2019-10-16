@@ -23,13 +23,6 @@
             "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe1.png"
         },
         {
-            "name": "FE2",
-            "view": "https://olegobiukh.github.io/FE/2/",
-            "tech": "fe",
-            "additional info": "responsive",
-            "img": "https://raw.githubusercontent.com/olegobiukh/other/master/portfolio/background/img/fe2.png"
-        },
-        {
             "name": "Star Wars",
             "view": "https://olegobiukh.github.io/react-sw/",
             "tech": "react",

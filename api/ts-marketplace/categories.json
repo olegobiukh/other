@@ -1,0 +1,22 @@
+[
+  {
+    "title": "computers",
+    "mainLink": "computers",
+    "additionalTitle": "laptops",
+    "routes": ["laptops"],
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-4-1199x499-600x250.jpg"
+  },
+  {
+    "title": "mobiles & tables",
+    "mainLink": "mobiles-and-tablets",
+    "additionalTitle": "mobiles",
+    "routes": ["phones"],
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-9-1199x499-600x250.jpg"
+  },
+  {
+    "title": "gadgets",
+    "mainLink": "gadgets",
+    "routes": ["headphones", "watches"],
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-11-1199x499-600x250.jpg"
+  }
+]

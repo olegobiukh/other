@@ -3,6 +3,7 @@
     "id": 0,
     "category": "mobile",
     "title": "iPhone 11 Pro Max",
+    "price": 1200,
     "description": [
       "Carrier - This phone is locked to simple Mobile from Tracfone, which means this Device can only be used on the Simple Mobile wireless network.",
       "6. 5-inch Super Retina XDR OLED display"
@@ -43,6 +44,7 @@
     "id": 1,
     "category": "mobile",
     "title": "iPhone 11 Pro",
+    "price": 1200,
     "description": [
       "Carrier - This phone is locked to simple Mobile from Tracfone, which means this Device can only be used on the Simple Mobile wireless network.",
       "6. 5-inch Super Retina XDR OLED display"
@@ -83,6 +85,7 @@
     "id": 2,
     "category": "mobile",
     "title": "iPhone 11",
+    "price": 1100,
     "description": [
       "Carrier - This phone is locked to simple Mobile from Tracfone, which means this Device can only be used on the Simple Mobile wireless network.",
       "6. 5-inch Super Retina XDR OLED display"
@@ -129,7 +132,11 @@
     ],
 
     "title": "iPhone SE",
-    "images": ["DDDD", "DDDD", "DDDD"],
+    "price": 900,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/8127fxEeCtL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61CnVxB34rL._AC_SL1500_.jpg"
+    ],
     "features": {
       "company": "Apple",
       "display": "4.7-inch Super Retina XDR display",
@@ -156,6 +163,7 @@
       "6. 5-inch Super Retina XDR OLED display"
     ],
     "title": "iPhone XS Max",
+    "price": 900,
     "images": [
       "https://images-na.ssl-images-amazon.com/images/I/71sITK2GB1L._AC_SY500_.jpg",
       "https://images-na.ssl-images-amazon.com/images/I/71sITK2GB1L._AC_SY500_.jpg",
@@ -193,6 +201,7 @@
     "id": 5,
     "category": "mobile",
     "title": "iPhone X",
+    "price": 900,
     "description": [
       "Carrier - This phone is locked to simple Mobile from Tracfone, which means this Device can only be used on the Simple Mobile wireless network.",
       "6. 5-inch Super Retina XDR OLED display"
@@ -233,6 +242,7 @@
     "id": 6,
     "category": "mobile",
     "title": "iPhone 8",
+    "price": 500,
     "description": [
       "Carrier - This phone is locked to simple Mobile from Tracfone, which means this Device can only be used on the Simple Mobile wireless network.",
       "6. 5-inch Super Retina XDR OLED display"
@@ -269,6 +279,7 @@
     "id": 7,
     "category": "mobile",
     "title": "iPhone 7 Plus",
+    "price": 500,
     "images": [
       "https://images-na.ssl-images-amazon.com/images/I/418fDVeBfKL._AC_SY550_.jpg",
       "https://images-na.ssl-images-amazon.com/images/I/61l0Et95kQL._AC_SY741_.jpg"
@@ -294,6 +305,7 @@
     "id": 8,
     "category": "mobile",
     "title": "iPhone 7",
+    "price": 380,
     "description": [
       "Locked to the GSM network and only compatible with GSM carriers like AT&T, T-Mobile and Metro. Will not work with Sprint, Verizon, US Cellular or Cricket."
     ],
@@ -1149,6 +1161,7 @@
   {
     "id": 48,
     "title": "Apple Watch Series 5 (GPS, 40mm) ",
+    "category": "watch",
     "price": 500,
     "description": [
       "LTE and UMTS, Built-in GPS, GLONASS, Galileo, and QZSS, S5 with 64-bit dual-core processor, W3 Apple wireless chip, Barometric altimeter, Capacity 32GB, Optical heart sensor, Electrical heart sensor, Improved accelerometer up to 32 g‑forces, Improved gyroscope, Ambient light sensor, LTPO OLED Always-On Retina display with Force Touch (1000 nits), Digital Crown with haptic feedback, Louder speaker, Ion-X strengthened glass, Sapphire crystal and ceramic back, Wi-Fi (802.11b/g/n 2.4GHz), Bluetooth 5.0, Built-in rechargeable lithium-ion battery, Up to 18 hours of battery life, Water resistant 50 meters, watchOS 5"
@@ -1169,6 +1182,7 @@
   {
     "id": 49,
     "title": "Apple Watch Series 5 (GPS + Cellular, 40mm)",
+    "category": "watch",
     "price": 500,
     "description": [
       "LTE and UMTS, Built-in GPS, GLONASS, Galileo, and QZSS, S5 with 64-bit dual-core processor, W3 Apple wireless chip, Barometric altimeter, Capacity 32GB, Optical heart sensor, Electrical heart sensor, Improved accelerometer up to 32 g‑forces, Improved gyroscope, Ambient light sensor, LTPO OLED Always-On Retina display with Force Touch (1000 nits), Digital Crown with haptic feedback, Louder speaker, Ion-X strengthened glass, Sapphire crystal and ceramic back, Wi-Fi (802.11b/g/n 2.4GHz), Bluetooth 5.0, Built-in rechargeable lithium-ion battery, Up to 18 hours of battery life, Water resistant 50 meters, watchOS 5"
@@ -1188,6 +1202,7 @@
     "id": 50,
     "title": "Apple Watch Series 4 (GPS + Cellular, 40mm)",
     "price": 550,
+    "category": "watch",
     "description": [
       "GLONASS, Galileo, and QZSS, Barometric altimeter, Optical heart sensor, Electrical heart sensor, Improved accelerometer up to 32 g‑forces, Improved gyroscope, Ambient light sensor, LTPO OLED Retina display with Force Touch (1000 nits), Digital Crown with haptic feedback, Louder speaker, Ion-X strengthened glass, Sapphire crystal and ceramic back"
     ],
@@ -1207,6 +1222,7 @@
     "id": 51,
     "title": "Apple Watch Series 3 (GPS, 42mm)",
     "price": 400,
+    "category": "watch",
     "description": [
       "GLONASS, Galileo, and QZSS, Barometric altimeter, Optical heart sensor, Accelerometer and gyroscope, Ion-X strengthened glass, Composite back"
     ],
@@ -1227,6 +1243,7 @@
     "id": 52,
     "title": "Fitbit Inspire HR Heart Rate and Fitness Tracker",
     "price": 158,
+    "category": "watch",
     "description": [
       "Fitbit inspire hr. is a friendly heart rate and fitness tracker for every day that helps you build healthy habits. This encouraging companion motivates you to reach your weight and fitness goals and even enjoy the journey with 24/7 heart rate, workout features, calorie burn tracking, goal celebrations, sleep stages and up to 5 days of battery life. Large fits wrist 7.1 8.7 in circumference. Small fits wrist 5.5"
     ],
@@ -1245,6 +1262,7 @@
   {
     "id": 53,
     "title": "Fossil Gen 5 Carlyle",
+    "category": "watch",
     "price": 158,
     "description": [
       "Smartwatches powered with Wear OS by Google work with iPhone and Android Phones ; Circumference: 200+/ 5mm",
@@ -1269,6 +1287,7 @@
     "id": 54,
     "title": "Xiaomi Mi Band 4 Fitness Tracker",
     "price": 32,
+    "category": "watch",
     "description": [
       "Bigger and color screen displays a comprehensive and obvious activity information; Simply lift your wrist to view directly the time and tap the button for operation or view notifications"
     ],

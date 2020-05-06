@@ -4,6 +4,7 @@
     "mainLink": "computers",
     "additionalTitle": "laptops",
     "routes": ["laptops"],
+    "description": "portable wireless speakers",
     "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-4-1199x499-600x250.jpg",
     "id": 0
   },
@@ -12,6 +13,7 @@
     "mainLink": "mobiles-and-tablets",
     "additionalTitle": "mobiles",
     "routes": ["phones"],
+    "description": "the power of imaging",
     "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-9-1199x499-600x250.jpg",
     "icon": "",
     "id": 1
@@ -19,6 +21,7 @@
   {
     "title": "gadgets",
     "mainLink": "gadgets",
+    "description": "seeing is believing",
     "routes": ["headphones", "watches"],
     "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-11-1199x499-600x250.jpg",
     "icon": "",
